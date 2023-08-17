@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\bin\Debug\StudentProffessorDemo.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\bin\Debug\StudentProffessorDemo.exe
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\bin\Debug\StudentProffessorDemo.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\obj\Debug\StudentProffessorDemo.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\obj\Debug\StudentProffessorDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\obj\Debug\StudentProffessorDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\obj\Debug\StudentProffessorDemo.exe
+C:\Users\albin.kurian\Desktop\DotNet\section11\StudentProffessorDemo\StudentProffessorDemo\obj\Debug\StudentProffessorDemo.pdb
