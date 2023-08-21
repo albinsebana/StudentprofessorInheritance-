@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\bin\Debug\EmployeeInheritanceApp.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\bin\Debug\EmployeeInheritanceApp.exe
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\bin\Debug\EmployeeInheritanceApp.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\obj\Debug\EmployeeInheritanceApp.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\obj\Debug\EmployeeInheritanceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\obj\Debug\EmployeeInheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\obj\Debug\EmployeeInheritanceApp.exe
+C:\Users\albin.kurian\Desktop\DotNet\section11\EmployeeInheritanceApp\EmployeeInheritanceApp\obj\Debug\EmployeeInheritanceApp.pdb

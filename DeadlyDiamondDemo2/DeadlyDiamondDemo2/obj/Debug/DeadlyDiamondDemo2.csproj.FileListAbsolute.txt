@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\bin\Debug\DeadlyDiamondDemo2.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\bin\Debug\DeadlyDiamondDemo2.exe
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\bin\Debug\DeadlyDiamondDemo2.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\obj\Debug\DeadlyDiamondDemo2.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\obj\Debug\DeadlyDiamondDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\obj\Debug\DeadlyDiamondDemo2.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\obj\Debug\DeadlyDiamondDemo2.exe
+C:\Users\albin.kurian\Desktop\DotNet\section11\DeadlyDiamondDemo2\DeadlyDiamondDemo2\obj\Debug\DeadlyDiamondDemo2.pdb
